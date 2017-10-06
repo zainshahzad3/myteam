@@ -1,0 +1,9 @@
+.jumbotron {
+  background-image: url(stadium.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+body {
+  color:blue
+}
